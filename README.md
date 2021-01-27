@@ -1,4 +1,4 @@
-# Foundations of Programming Projects 👩🏽‍💻
+# Foundations of Programming Project 👩🏽‍💻
 
 This project was developed under the Foundations of Programming course of the Bachelors Degree in Computer Science and Engineering at Instituto Superior Técnico, Lisbon.
 
